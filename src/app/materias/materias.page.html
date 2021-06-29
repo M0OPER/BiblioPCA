@@ -1,0 +1,15 @@
+<ion-header>
+  <ion-toolbar>
+    <ion-title>MATERIAS</ion-title>
+    <ion-buttons slot="start">
+      <ion-menu-button defaultHref="/home"></ion-menu-button>
+    </ion-buttons>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content>
+  <ion-button *ngIf="id2 == 1800">ID RESTRINGIDO -> {{ id2 }}</ion-button>
+  <hr>
+  <ion-button expand="full">{{ materia }}</ion-button>
+  <ul><li *ngFor="let v of libros">{{ v }}</li></ul>
+</ion-content>
