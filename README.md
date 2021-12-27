@@ -1,3 +1,3 @@
-# BiblioPCA
+# IONIC - ANGULAR JS - NODE JS
 Proyecto de ionic con angular
 APLICACION MOBILE HIBRIDA
