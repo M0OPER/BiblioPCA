@@ -1,3 +1,3 @@
-# IONIC - ANGULAR JS - NODE JS
+# IONIC - ANGULAR JS - NODE JS - HTML - CSS
 Proyecto de ionic con angular
 APLICACION MOBILE HIBRIDA
